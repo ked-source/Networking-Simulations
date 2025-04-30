@@ -1,9 +1,4 @@
 # Networking-Simulations
-
-You're right again — my apologies.
-
-Here is the **full raw content of the README.md file**, with **no outer markdown code block**. You can **copy and paste this directly into a `.md` file** like `README.md`, and it will work exactly as expected on GitHub:
-
 ---
 
 # 🧠 Network Labs – GNS3 & Cisco Packet Tracer
@@ -56,8 +51,6 @@ network-labs/
 
 ## 📸 Screenshots
 
-You can add screenshots of topologies and configurations here for visual reference.
-
 <p align="center">
   <img src="images/sample-topology.png" width="600" alt="Sample Topology" />
 </p>
@@ -92,5 +85,3 @@ This repository is open for educational and personal use.
 Commercial redistribution not allowed without permission.
 
 ---
-
-Would you like me to create and upload a banner image or sample screenshot for the `images/` folder?
